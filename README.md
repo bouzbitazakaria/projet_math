@@ -338,19 +338,6 @@ self.models['Nouveau_Modele'] = VotreModele(paramètres)
 
 ---
 
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
----
-
-## 📞 Contact
-
-**Auteur :** Projet Math IA  
-**Email :** [votre-email@example.com]  
-**Projet :** Analyse Exploratoire des Données Immobilières
-
----
 
 ## 🙏 Remerciements
 
